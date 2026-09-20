@@ -178,7 +178,9 @@ The system returned several available updates, indicating that some packages wer
 
 This demonstrated the importance of patch management because outdated software can leave known security weaknesses unresolved.
 
-📸 **System-update screenshot will be added here.**
+![Ubuntu package update review](ubuntu-updates.jpeg)
+
+*Figure 8. Ubuntu package update review showing available updates identified during the Linux security audit.*
 
 ---
 
