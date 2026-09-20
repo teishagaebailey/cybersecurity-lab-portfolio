@@ -56,7 +56,9 @@ I practiced the **Principle of Least Privilege** by creating a Windows Standard 
 
 A standard account has fewer privileges than an administrator account and is therefore more appropriate for normal day-to-day activity.
 
-📸 **Windows Standard User screenshot will be added here.**
+![Windows Standard User account demonstrating least privilege](windows-standard-user.png)
+
+*Figure 1. Windows Standard User account `Daily_User` created to demonstrate the Principle of Least Privilege.*
 
 ### Security Benefit
 
