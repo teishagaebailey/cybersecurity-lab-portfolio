@@ -84,7 +84,9 @@ The command returned only the `root` account. No additional UID 0 accounts were 
 
 This check helped me understand how Linux account information can be reviewed for unexpected privileged access.
 
-📸 **UID 0 screenshot will be added here.**
+![Ubuntu UID 0 account audit](uid0-check.png)
+
+*Figure 3. UbuntuLab terminal showing a review of UID 0 accounts to identify users with root-level privileges.*
 
 ---
 
