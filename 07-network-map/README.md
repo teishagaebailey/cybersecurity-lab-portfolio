@@ -123,9 +123,9 @@ This provides a useful environment for cybersecurity practice because networking
 
 # 🗺️ Network Diagram
 
-📸 **Home lab network map will be added here.**
+![Home Lab Network Map](home-lab-network-map.png)
 
-> The final diagram will represent WindowsLab and UbuntuLab in their respective VirtualBox NAT contexts rather than depicting both `10.0.2.15` addresses on a single shared LAN.
+*Figure 1. Network map of my Oracle VirtualBox cybersecurity home lab showing WindowsLab and UbuntuLab operating in separate NAT contexts with their respective virtual gateways.*
 
 ---
 
