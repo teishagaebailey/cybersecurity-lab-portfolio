@@ -91,7 +91,9 @@ The new account was then added to the:
 
 group.
 
-📸 **Privileged activity log screenshot will be added here.**
+![SSH privileged activity](ssh-privileged-activity.png)
+
+*Figure 2. Authentication log showing privileged activity associated with the `jdoe` account, including security-sensitive administrative actions following successful SSH authentication.*
 
 Creating an account and granting it sudo access is a significant security event because sudo membership can provide administrative capabilities.
 
