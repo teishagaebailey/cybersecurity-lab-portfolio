@@ -2,7 +2,7 @@
 
 ## Overview
 
-This checklist documents the account-security audit I completed for **Assignment #13**.
+This checklist documents an account-security audit I completed to evaluate and strengthen common account-protection practices.
 
 The purpose of the exercise was to evaluate important account-security practices, identify weaknesses, and establish stronger password and multi-factor authentication (MFA) policies.
 
