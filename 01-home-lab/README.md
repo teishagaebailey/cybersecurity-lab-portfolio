@@ -35,8 +35,9 @@ The two operating systems allow me to practice security concepts across differen
 
 I used the Ubuntu system to perform a Linux hardening audit covering privileged accounts, file permissions, sudo access, local accounts, SSH, firewall status, SUID files, system updates, and password-expiration settings.
 
-📸 **UbuntuLab screenshot will be added here.**
+![UbuntuLab virtual machine configured in Oracle VirtualBox](ubuntu-lab-vm.png)
 
+*Figure 2. UbuntuLab virtual machine used for Linux administration and cybersecurity hardening exercises.*
 ---
 
 ## 🌐 Windows Network Configuration
