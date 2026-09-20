@@ -4,12 +4,7 @@
 
 This project documents security-hardening activities I completed across my Windows and Ubuntu virtual lab environments.
 
-The work combines practical exercises from:
-
-- **Assignment #3** — System Patching and Updates
-- **Assignment #4** — Principle of Least Privilege
-- **Assignment #6** — Linux Security Hardening
-- **Assignment #14** — Firewall Rules and Network Defense
+The project combines practical system administration and defensive security exercises involving patch management, least privilege, Linux security auditing, and firewall hardening.
 
 The goal was to apply multiple layers of security rather than relying on a single security control.
 
@@ -30,7 +25,6 @@ Both systems are hosted in **Oracle VirtualBox** as part of my cybersecurity hom
 
 ## 1. System Patching and Updates
 
-**Source: Assignment #3**
 
 One of the first steps in securing a system is ensuring that the operating system and installed software are kept updated.
 
@@ -56,8 +50,6 @@ Keeping systems updated reduces exposure to known security weaknesses and forms 
 
 ## 2. Principle of Least Privilege
 
-**Source: Assignment #4**
-
 I practiced the **Principle of Least Privilege** by creating a Windows Standard User account named:
 
 `Daily_User`
@@ -81,7 +73,6 @@ Administrative privileges should only be used when they are actually required.
 
 ## 3. Linux Privileged Account Review
 
-**Source: Assignment #6**
 
 I checked the Ubuntu system for accounts with UID 0 using:
 
@@ -101,7 +92,6 @@ Regularly review privileged accounts and remove unnecessary administrative acces
 
 ## 4. Linux File Permission Review
 
-**Source: Assignment #6**
 
 I reviewed Linux file permissions as part of the hardening process.
 
@@ -129,7 +119,6 @@ The `/etc/shadow` file requires particularly strong protection because it contai
 
 ## 5. Administrative Access Review
 
-**Source: Assignment #6**
 
 I reviewed membership in the Linux `sudo` group using:
 
@@ -149,7 +138,6 @@ This supports the **Principle of Least Privilege**.
 
 ## 6. Remote Access and SSH Review
 
-**Source: Assignment #6**
 
 I attempted to review the SSH root-login configuration using:
 
@@ -171,9 +159,8 @@ If SSH is enabled in the future, its configuration should be reviewed and remote
 
 ## 7. Ubuntu Firewall Hardening
 
-**Sources: Assignments #6 and #14**
 
-During my initial Linux security audit in **Assignment #6**, I checked UFW using:
+During my initial Linux security audit, I checked UFW using:
 
     sudo ufw status
 
@@ -183,7 +170,7 @@ The firewall was initially reported as:
 
 This was identified as an area for improvement.
 
-During my later firewall exercise in **Assignment #14**, UFW was active.
+During a later firewall-hardening exercise, UFW was active.
 
 The later configuration showed:
 
@@ -205,7 +192,6 @@ A default-deny incoming policy reduces unnecessary network exposure by blocking 
 
 ## 8. Windows Firewall Review
 
-**Source: Assignment #14**
 
 I reviewed Windows Defender Firewall rules using PowerShell.
 
