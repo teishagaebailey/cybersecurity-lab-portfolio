@@ -103,8 +103,9 @@ I also reviewed `/etc/shadow`. The recorded permissions were:
 
 My audit documented that the file was not world-readable, helping protect the stored password hashes from unauthorized access.
 
-📸 **File-permission screenshot will be added here.**
+![Ubuntu shadow file permission audit](shadow-permissions.jpeg)
 
+*Figure 4. Ubuntu file-permission check showing restricted access to the `/etc/shadow` file.*
 ---
 
 ## 👤 Linux Administrative Access
