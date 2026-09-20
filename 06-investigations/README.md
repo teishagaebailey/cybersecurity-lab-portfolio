@@ -61,7 +61,9 @@ The sequence included attempts involving:
 
 The `jdoe` account experienced two failed authentication attempts before a successful login was recorded.
 
-📸 **Authentication log screenshot will be added here.**
+![SSH authentication attempts](ssh-authentication-attempts.png)
+
+*Figure 1. Authentication log showing multiple failed SSH login attempts followed by successful authentication for the `jdoe` account.*
 
 This sequence is security-relevant because repeated authentication failures followed by a successful login can warrant further investigation.
 
