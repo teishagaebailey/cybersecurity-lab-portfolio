@@ -2,7 +2,7 @@
 
 ## Overview
 
-This checklist documents a Linux security audit I performed on my Ubuntu virtual machine as part of **Assignment #6**.
+This checklist documents a Linux security audit I performed on my Ubuntu virtual machine as part of my cybersecurity home lab.
 
 The purpose of the audit was to review common Linux security areas including privileged accounts, file permissions, administrative access, account status, SSH configuration, firewall protection, SUID files, system updates, and password-expiration settings.
 
@@ -175,7 +175,7 @@ A host-based firewall can help restrict unnecessary network traffic and reduce s
 
 **Recommendation:** Enable and configure UFW where appropriate, allowing only required network traffic.
 
-> **Note:** This finding represents the system during my initial Linux audit in Assignment #6. In a later firewall exercise in **Assignment #14**, UFW was active with a default-deny incoming policy, demonstrating the progression of my lab configuration.
+> **Note:** > **Note:** This finding represents the system during my initial Linux security audit. In a later firewall-hardening exercise, UFW was active with a default-deny incoming policy, demonstrating the progression of my lab configuration.
 
 ---
 
