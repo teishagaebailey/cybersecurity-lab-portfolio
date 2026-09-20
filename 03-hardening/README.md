@@ -182,7 +182,7 @@ The later configuration showed:
 - **Default outgoing policy:** Allow
 - **Routed traffic:** Disabled
 
-![Ubuntu UFW firewall active](ufw-active.png)
+![Ubuntu UFW firewall active](ufw-active.jpeg)
 
 *Figure 2. Ubuntu UFW status check confirming that the host-based firewall was active during the later hardening exercise.*
 
