@@ -45,7 +45,9 @@ The audit allowed me to examine firewall properties including:
 - Action
 - Network profile
 
-📸 **Windows firewall PowerShell screenshot will be added here.**
+![Windows Defender Firewall PowerShell audit](windows-firewall-rules.png)
+
+*Figure 1. Windows Defender Firewall rule output reviewed using PowerShell, showing an enabled inbound rule and its associated network profile and action.*
 
 ---
 
