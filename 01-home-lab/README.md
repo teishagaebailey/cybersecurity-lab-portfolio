@@ -25,7 +25,9 @@ The two operating systems allow me to practice security concepts across differen
 
 `WindowsLab` provides my Windows environment for networking and security exercises. I have used this environment to examine IP configuration, connectivity, DNS resolution, ARP information, routing, open ports, and Windows firewall rules.
 
-📸 **WindowsLab screenshot will be added here.**
+![WindowsLab virtual machine configured in Oracle VirtualBox](windows-lab-vm.png)
+
+*Figure 1. WindowsLab virtual machine configured in Oracle VirtualBox for cybersecurity practice.*
 
 ### UbuntuLab
 
