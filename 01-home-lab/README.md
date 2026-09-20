@@ -87,7 +87,6 @@ This check helped me understand how Linux account information can be reviewed fo
 ![Ubuntu UID 0 account audit](uid0-check.png)
 
 *Figure 3. UbuntuLab terminal showing a review of UID 0 accounts to identify users with root-level privileges.*
-
 ---
 
 ## 🔐 Linux File Permission Review
