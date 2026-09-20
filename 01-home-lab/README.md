@@ -150,7 +150,9 @@ My recommendation was to enable UFW and review its rules so that only necessary 
 
 This finding gave me an example of how a security audit can identify a configuration that may require improvement.
 
-📸 **UFW screenshot will be added here.**
+![Ubuntu UFW firewall status](ufw-status.jpeg)
+
+*Figure 7. Ubuntu UFW status check showing that the firewall was inactive during the initial Linux security audit.*
 
 ---
 
