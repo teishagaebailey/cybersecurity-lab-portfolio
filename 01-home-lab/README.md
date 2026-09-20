@@ -132,7 +132,9 @@ The configuration file was not available because OpenSSH Server was not installe
 
 This demonstrated that security auditing does not always produce an expected configuration. The existing state of a system should be documented accurately rather than changed simply to produce a particular result.
 
-📸 **SSH screenshot will be added here.**
+![Ubuntu SSH configuration check](ssh-check.jpeg)
+
+*Figure 6. UbuntuLab SSH configuration check showing that the OpenSSH Server configuration file was not present.*
 
 ---
 
