@@ -116,7 +116,9 @@ My audit found several accounts listed as members of the sudo group. Because the
 
 This exercise reinforced the importance of the **Principle of Least Privilege** when managing Linux systems.
 
-📸 **Sudo-group screenshot will be added here.**
+![Ubuntu sudo group audit](sudo-group.jpeg)
+
+*Figure 5. Ubuntu sudo-group review used to identify accounts with administrative privileges.*
 
 ---
 
