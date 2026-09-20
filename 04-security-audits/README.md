@@ -109,7 +109,9 @@ The firewall reported:
 
     Status: active
 
-📸 **Active UFW status screenshot will be added here.**
+![Ubuntu UFW verbose status](ufw-verbose-status.png)
+
+*Figure 2. Ubuntu UFW firewall configuration showing the active firewall status and default traffic policies.*
 
 This confirmed that the Ubuntu host-based firewall was enabled during the later firewall audit.
 
