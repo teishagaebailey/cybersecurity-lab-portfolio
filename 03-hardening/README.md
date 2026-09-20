@@ -210,7 +210,9 @@ Examples of rules reviewed included:
 - Remote Assistance TCP-Out
 - Core Networking Packet Too Big ICMPv6-Out
 
-📸 **Windows firewall PowerShell screenshot will be added here.**
+![Windows Defender Firewall PowerShell audit](windows-firewall-audit.jpeg)
+
+*Figure 3. Windows Defender Firewall rules reviewed using PowerShell as part of a network-defense audit.*
 
 ### Security Finding
 
