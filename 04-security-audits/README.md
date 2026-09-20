@@ -145,7 +145,9 @@ I also reviewed manually configured UFW rules.
 
 No manually configured numbered rules were present during the review.
 
-📸 **UFW numbered-rule screenshot will be added here.**
+![Ubuntu UFW numbered rules](ufw-numbered-rules.png)
+
+*Figure 3. Ubuntu UFW numbered-rule review showing the configured firewall rule list during the network-defense audit.*
 
 This means the firewall was primarily relying on its configured default policies rather than additional manually created allow or deny rules.
 
